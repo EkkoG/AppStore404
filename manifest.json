@@ -1,6 +1,6 @@
 {
     "name": "AppStore404",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Fixed non cn App Store 404 when visit in China",
     "background": {
       "scripts": ["background.js"],
